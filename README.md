@@ -1,2 +1,2 @@
-# java_lab_assignments
+<strong># Java Lab Assignments</strong>
 This repo contains java programs with proper comments 

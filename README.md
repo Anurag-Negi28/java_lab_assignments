@@ -20,7 +20,7 @@ This Java program accept ten numbers in an array and compute the square of each 
 <h3>SuperClass.java</h3>
 This Java program shows that private member of a super class cannot be
 accessed from derived classes
-  <h4>main.java</h4>
+  <h4>Main.java</h4>
   main class of SuperClass
 <h3>Worker.java</h3>
 Class Worker derives classes DailyWorker and SalariedWorker from
@@ -29,5 +29,5 @@ to compute the week pay of every worker. A DailyWorker is paid on the basis of
 the number of days he/she works. The SalariedWorker gets paid the wage for 40
 hours a week, no matter what the actual hours are. Test this program to calculate
 the pay of workers
-  <h4>must.java</h4>
+  <h4>Must.java</h4>
   main class of Worker class
